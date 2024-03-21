@@ -12,10 +12,4 @@ We are a proud member of the flightsim community and an official VATSIM partner.
 
 TPC pillars are: **T**eamwork, **P**assion, **C**ommunity.
 
-**Welcome to The Pilot Club. Welcome to YOUR Club! Let’s fly!**
-
-## Our Development Team
-
-Our Development Team exists of members of The Pilot Club who wish to put forth their time to help improve The Pilots Club's resources and web services.
-
-# Thank you for your time and we hope you enjoy The Pilot Club! 
+# Welcome to The Pilot Club. Welcome to YOUR Club! Let’s fly!
