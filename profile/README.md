@@ -18,21 +18,4 @@ TPC pillars are: **T**eamwork, **P**assion, **C**ommunity.
 
 Our Development Team exists of members of The Pilot Club who wish to put forth their time to help improve The Pilots Club's resources and web services.
 
-### Development Team Lead : Eric Steiner
-
-Eric is the founding member of TPCs development team. Eric is a self-taught developer who learned how to code with the discord bot.
-
-Since Eric started the dev team, The Pilot Club has expanded its web resources to what it is today.
-
-### Deputy Development Team Lead: Mike Melton
-
-Mike joined the team to help improve TPCs web resources away from the old Windows server that TPC was on, and help migrate over to Kubernetes.
-
-Mike has played an instrumental part in the current state of the clubs resources and services.
-
-## Joining the Development Team
-
-If you are looking to help improve our development team, please reach out to Eric via The Pilot Clubs discord server which can be found on our website at https://thepilotclub.org under the join tab.
-
-
 # Thank you for your time and we hope you enjoy The Pilot Club! 
