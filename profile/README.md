@@ -35,4 +35,4 @@ Mike has played an instrumental part in the current state of the clubs resources
 If you are looking to help improve our development team, please reach out to Eric via The Pilot Clubs discord server which can be found on our website at https://thepilotclub.org under the join tab.
 
 
-Thank you for your time and we hope you enjoy The Pilot Club! 
+# Thank you for your time and we hope you enjoy The Pilot Club! 
